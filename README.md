@@ -49,3 +49,9 @@ Name: S.Prathima
 Email: prathimasainni@gmail.com
 
 GitHub: Prathima29
+ 
+ 
+ 📄 License
+This project is licensed under the MIT License.
+
+⭐ If you liked this project, consider starring it on GitHub!
