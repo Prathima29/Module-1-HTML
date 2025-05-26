@@ -13,7 +13,7 @@ A beginner-friendly HTML5 web project designed to promote and manage local commu
 🚀 How to Run
 Clone or download this repository:
 
-https://github.com/AmruthaChandana/Local-Community-Event-Portal.git
+https://github.com/Prathima29/Module-1-HTML.git
 Open index.html in your web browser—no setup required!
 
 Visit help.html for FAQs and usage assistance.
