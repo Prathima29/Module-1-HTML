@@ -41,6 +41,8 @@ Implementing browser-native APIs (like geolocation)
 Using LocalStorage to remember user choices
 
 Basic debugging practices in the browser
+
+
 📬 Contact
 Name: S.Prathima
 
